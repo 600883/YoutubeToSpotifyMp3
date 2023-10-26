@@ -10,3 +10,4 @@ Spotify is not able to show the local file folder that i specified. It is probab
 Still working on this project to optimize it, so that it automatically makes a folder and shows it in the local folder on Spotify
 
 # How to Run the project
+More coming soon
